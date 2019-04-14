@@ -1,4 +1,4 @@
-# FireStix
+# NetFreak
 > IT's A Powerful Tool To Perform A Denial Of Service Attack [DOS]
 > Illegal Disclaimer: I'm Not Responsible For Damage Caused By This Program Use It At your Own Risk
 
