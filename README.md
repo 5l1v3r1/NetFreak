@@ -6,7 +6,7 @@
 ##  Installation : 
 ```bash
 git clone https://github.com/doophack/NetFreak
-cd NetFreak:
+cd NetFreak
 chmod +x NetFreak.pl
 ```
 
