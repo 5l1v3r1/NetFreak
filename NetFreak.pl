@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#Created By Benelhaj_younes
+#Created By r2dr0dn
 
 #=== Use Modules ===#
 use IO::Socket;
@@ -33,7 +33,7 @@ print q{
             MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
   #---------------------------------------------------------------------------#
   |                "--------------NetFreak-------------"                      |
-  |                "----Created By Benelhaj_younes-----"                      |
+  |                "----     Created By r2dr0dn   -----"                      |
   |                "Illegal Disclaimer: I'm Not Responsible For Damage        |
   |                 Caused By This Program Use It At your Own Risk"           |
   #---------------------------------------------------------------------------#
@@ -117,4 +117,4 @@ while (1) {
  }
 }
 $sock->close()
-########Becareful#########
+#'='!!
