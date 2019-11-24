@@ -5,25 +5,16 @@
 
 ##  Installation : 
 ```bash
-git clone https://github.com/doophack/NetFreak
+git clone https://github.com/r2dr0dn/NetFreak
 cd NetFreak
 chmod +x NetFreak.pl
 ```
 
 ## How To Run : 
 ```bash
-perl NetFreak.pl
-Follow The Instruction
+perl NetFreak.pl```
 ```
-## ScreenShot && Demo:
-<img src="https://i.ibb.co/pf1vcmb/NetFreak.png" alt="NetFreak" border="0">
-
-<p align="center">
-<a href="https://asciinema.org/a/240877">
-<img src="https://asciinema.org/a/240877.svg">
-</a>
-</p>
 
 # Author 
-## Benelhaj_younes
+## r2dr0dn
 
